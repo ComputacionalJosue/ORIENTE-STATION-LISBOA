@@ -1,4 +1,4 @@
-# Harvard-dream
-Descripción del utópico sueño de entrar a Harvard GSD.
-Ultimo cambio 29/12/23
-Ustedes creen que la logre ?
+
+# Parametric Model Oriente Estación Lisboa
+
+Algoritmo de módulo y algoritmo para su implementación en cualquier terreno como conjunto 
