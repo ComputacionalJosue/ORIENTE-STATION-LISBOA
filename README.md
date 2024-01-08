@@ -23,14 +23,15 @@ Descarge los dos archivos (.gh y .3dm) que ese encuentran en la carpeta "Proyect
 
 ## 🛠️ Abre y ejecuta el proyecto
 
-En el caso de que solo desees utilizar el algoritmo del modúlo base.
-    - Asegurate de tener instalado Rhinoceros-Grasshopper en tu computadora, recomendado: Rhino 7 para adelante.
-    - Abrir el archivo .gh: ParametricModel.gh.
-En el caso de que desees utilizar o ver el algoritmo de la aplicacíon en el terreno.
-    - Asegurate de tener instalado Rhinoceros-Grasshopper en tu computadora, recomendado: Rhino 7 para adelante.
-    - Abrir primero el archivo .gh: ParametricModel.gh.
-    - Abrir después el acrhivo .3dm: Example surface.3dm.
-    - Puedes reemplazar o modificar la superficie del archivo .3dm o en su defecto exportar una malla o superficie de otro software.
+1. **En el caso de que solo desees utilizar el algoritmo del módulo base:**
+   - Asegúrate de tener instalado Rhinoceros-Grasshopper en tu computadora, recomendado: Rhino 7 en adelante.
+   - Abre el archivo .gh: ParametricModel.gh.
+
+2. **En el caso de que desees utilizar o ver el algoritmo de la aplicación en el terreno:**
+   - Asegúrate de tener instalado Rhinoceros-Grasshopper en tu computadora, recomendado: Rhino 7 en adelante.
+   - Abre primero el archivo .gh: ParametricModel.gh.
+   - Abre después el archivo .3dm: Example surface.3dm.
+   - Puedes reemplazar o modificar la superficie del archivo .3dm o, en su defecto, exportar una malla o superficie de otro software.
    
 
 
