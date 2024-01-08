@@ -17,11 +17,11 @@ Algoritmo de módulo (unidad de conjunto) y algoritmo para su implementación en
      
 ![Portada secundaria](https://github.com/ComputacionalJosue/Oriente-Estacion-Lisboa/blob/main/Docs/Portada%20Readme.jpg)
 
-\## 📁 Acceso al proyecto
+## 📁 Acceso al proyecto
 
 Descarge los dos archivos (.gh y .3dm) que ese encuentran en la carpeta "Proyect" dentro de este repositorio de GitHUb
 
-\## 🛠️ Abre y ejecuta el proyecto
+## 🛠️ Abre y ejecuta el proyecto
 
 En el caso de que solo desees utilizar el algoritmo del modúlo base.
     - Asegurate de tener instalado Rhinoceros-Grasshopper en tu computadora, recomendado: Rhino 7 para adelante.
