@@ -2,7 +2,7 @@
 # Parametric Model Oriente Estación Lisboa
 ![Portada Readme](https://github.com/ComputacionalJosue/Oriente-Estacion-Lisboa/blob/main/Docs/Algoritmo%20grasshopper.png)
 
-Algoritmo de módulo (unidad de conjunto) y algoritmo para su implementación en cualquier terreno como agrupacion de módulos. Construido en su totalidad en [Grasshopper](https://www.grasshopper3d.com/). Proyecto para ser utilizado en su implmentacion en proyectos o practicas de arquiectura o simplemente para el estudio de grasshopper.
+Algoritmo de módulo (unidad de conjunto) y algoritmo para su implementación en cualquier terreno como agrupacion de módulos. Construido en su totalidad en [Grasshopper](https://www.grasshopper3d.com/). Proyecto para ser utilizado en su implementacion en proyectos o prácticas de arquitectura o simplemente para su estudio como ejmplo.
 
 ## Descripción
 
@@ -32,6 +32,11 @@ Descarge los dos archivos (.gh y .3dm) que ese encuentran en la carpeta "Proyect
    - Abre primero el archivo .gh: ParametricModel.gh.
    - Abre después el archivo .3dm: Example surface.3dm.
    - Puedes reemplazar o modificar la superficie del archivo .3dm o, en su defecto, exportar una malla o superficie de otro software.
+   - 
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
    
 
 
