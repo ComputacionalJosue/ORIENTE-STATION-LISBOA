@@ -31,16 +31,16 @@ Descarge los dos archivos (.gh y .3dm) que ese encuentran en la carpeta "Proyect
    - Abre después el archivo .3dm: Example surface.3dm.
    - Puedes reemplazar o modificar la superficie del archivo .3dm o, en su defecto, exportar una malla o superficie de otro software.
 
-##Mas información
+## Mas información
 
 Video sobre proyecto:
 [![Imagen que representa el video](https://github.com/ComputacionalJosue/Oriente-Estacion-Lisboa/blob/main/Docs/video.png)](enlace_al_destino)
-Mas informacion acerca de la obra de Calatrava aquí: [https://calatrava.com/projects/oriente-station-lisboa.html?view_mode=gallery&image=1](https://calatrava.com/projects/oriente-station-lisboa.html?view_mode=gallery&image=1)
-                                                     [https://en.wikiarquitectura.com/building/orient-station-to-expo98/](https://en.wikiarquitectura.com/building/orient-station-to-expo98/)
+Mas informacion acerca de la obra de Calatrava aquí: [https://calatrava.com/projects/oriente-station-lisboa.html?view_mode=gallery&image=1](https://calatrava.com/projects/oriente-station-lisboa.html?view_mode=gallery&image=1) y/o aqui [https://en.wikiarquitectura.com/building/orient-station-to-expo98/](https://en.wikiarquitectura.com/building/orient-station-to-expo98/)
                                                      
 ## Agradecimientos
 
 Este proyecto es la puesta en práctica de todo lo aprendido en el playlist de "Introduction to Parametric Modeling" de [ParametricCamp](https://www.youtube.com/@ParametricCamp/playlists) impartida por el maestro [José Luis García del Castillo](https://github.com/garciadelcastillo).
+
 Este proyecto fue realizado enteramente por [Josué Israel Hurtado](https://github.com/ComputacionalJosue) 
 
 ## Authors
