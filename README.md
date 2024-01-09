@@ -2,12 +2,12 @@
 # Parametric Model Oriente Estación Lisboa
 ![Portada Readme](https://github.com/ComputacionalJosue/Oriente-Estacion-Lisboa/blob/main/Docs/Algoritmo%20grasshopper.png)
 
-Algoritmo de módulo (unidad de conjunto) y algoritmo para su implementación en cualquier terreno como agrupacion de módulos. Construido en su totalidad en [Grasshopper](https://www.grasshopper3d.com/). Proyecto para ser utilizado en su implementacion en proyectos o prácticas de arquitectura o simplemente para su estudio como ejmplo.
+Algoritmo de módulo (unidad de conjunto) y algoritmo para su implementación en cualquier terreno como agrupacion de módulos. Construido en su totalidad en [Grasshopper](https://www.grasshopper3d.com/). Proyecto para ser utilizado en su implementacion en proyectos o prácticas de arquitectura o simplemente para su estudio como ejemplo.
 
 ## Descripción
 
 1. **Análisis:**
-   - Se hizo una observacion de la obra construida de Santiago Calatrava: La estacion de Oriente-Lisboa, donde se observa todas las caracteristicas antes de llevarlas a grasshopper, la mortfologia , la estrcuturas, la lógica contructiva y de diseño para a la hora de tomar decisiones en grasshopper estas esten en base a la obra original.Para elaborar el algoritmo escogimos el área de la estación de los trenes, específicamente la estructura de acero y vidrio con apariencia de árbol que cubre el área de los binarios, esta estructura es de los rasgos mas importantes de toda la obra que además  la dota de una esencia y la hace resaltar desde lejos..
+   - Se hizo una observacion de la obra construida de Santiago Calatrava: La estacion de Oriente-Lisboa, donde se observa todas las caracteristicas antes de llevarlas a grasshopper, la mortfologia , la estrcuturas, la lógica contructiva y de diseño para que a la hora de tomar decisiones en grasshopper estas esten en base a la obra original. Para elaborar el algoritmo escogimos el área de la estación de los trenes, específicamente la estructura de acero y vidrio con apariencia de árbol que cubre el área de los binarios, esta estructura es de los rasgos mas importantes de toda la obra que además  la dota de una esencia y la hace resaltar desde lejos.
 2. **Módulo de arbol:**
    - Definimos y modelamos paramétricamente como módulo independiente una unidad de la estructura, para que antes de multiplicarla en ambos ejes primero este definida y personalizada.
 3. **Inserción en el terreno:**
@@ -35,6 +35,7 @@ Descarge los dos archivos (.gh y .3dm) que ese encuentran en la carpeta "Proyect
 
 Video sobre proyecto:
 [![Imagen que representa el video](https://github.com/ComputacionalJosue/Oriente-Estacion-Lisboa/blob/main/Docs/video.png)](enlace_al_destino)
+
 Mas informacion acerca de la obra de Calatrava aquí: [https://calatrava.com/projects/oriente-station-lisboa.html?view_mode=gallery&image=1](https://calatrava.com/projects/oriente-station-lisboa.html?view_mode=gallery&image=1) y/o aqui [https://en.wikiarquitectura.com/building/orient-station-to-expo98/](https://en.wikiarquitectura.com/building/orient-station-to-expo98/)
                                                      
 ## Agradecimientos
