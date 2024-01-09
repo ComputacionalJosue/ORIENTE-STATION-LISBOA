@@ -34,7 +34,7 @@ Descarge los dos archivos (.gh y .3dm) que ese encuentran en la carpeta "Proyect
 ## Mas información
 
 Video sobre proyecto:
-[![Imagen que representa el video](https://github.com/ComputacionalJosue/Oriente-Estacion-Lisboa/blob/main/Docs/video.png)](enlace_al_destino)
+[![Imagen que representa el video](https://github.com/ComputacionalJosue/Oriente-Estacion-Lisboa/blob/main/Docs/video.png)](https://www.facebook.com/josue.hurtado.33633/videos/1881554428906474?locale=es_LA)
 
 Mas informacion acerca de la obra de Calatrava aquí: [https://calatrava.com/projects/oriente-station-lisboa.html?view_mode=gallery&image=1](https://calatrava.com/projects/oriente-station-lisboa.html?view_mode=gallery&image=1) y/o aqui [https://en.wikiarquitectura.com/building/orient-station-to-expo98/](https://en.wikiarquitectura.com/building/orient-station-to-expo98/)
                                                      
